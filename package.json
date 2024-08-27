@@ -25,7 +25,7 @@
     "redux": "^3.7.2",
     "styled-components": "^2.1.1",
     "timeago-react": "^1.2.2",
-    "webpack": "^3.4.1",
+    "webpack": "^5.94.0",
     "yamljs": "^0.3.0"
   },
   "scripts": {
